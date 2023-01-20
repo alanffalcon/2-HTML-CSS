@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(50, 180, 255);
+    color: white;
+   }
+   
+   header {
+     text-align: center;
+   }
+   
+   main{
+     border: solid;
+     border-color: solid;
+     margin: 50px;
+     padding: 10px;
+      background-color: rgb(50, 100, 255);
+   }
+   
+   input {
+     margin: 5px;
+   }
+   
+   label {
+     display: block;
+   }
